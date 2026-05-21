@@ -220,6 +220,7 @@ checkpoints/
 
 # --- 结果与日志 (可选) ---
 results/
+results_figures/
 logs/
 
 # --- Python 缓存与环境 ---
