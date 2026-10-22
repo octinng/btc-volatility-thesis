@@ -1,6 +1,6 @@
 # btc-volatility-thesis
 
-基于 BiLSTM-Attention 的比特币次日波动率预测（学位论文配套代码）。
+基于 BiLSTM-Attention 的比特币次日波动率预测。
 
 ---
 
